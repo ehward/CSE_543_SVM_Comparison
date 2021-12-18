@@ -46,7 +46,7 @@ fakeNotes = data[-610:]
 print(realNotes)
 print('')
 print(fakeNotes)
-print(z)
+#print(z)
 
 
 # In[5]:
